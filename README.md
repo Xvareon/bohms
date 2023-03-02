@@ -1,6 +1,2 @@
 # Barangay Health Management System
-
-- Dela Cruz
-- Mesina
-- Trinidad
-- Zante
+Website for baranggay utility
